@@ -40,3 +40,4 @@ describe("Module Purchase Journey Event Type", function () {
       cy.contains("Professional Diploma in Compliance").click();
     });
   });
+  

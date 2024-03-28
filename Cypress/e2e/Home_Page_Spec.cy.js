@@ -11,3 +11,4 @@ it('Enrols in Financial Advice (QFA) program', () => {
     cy.viewport(1334, 740); 
   });
   
+  
